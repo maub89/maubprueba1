@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HolaMundoService\\HolaMundoService.csproj",
+      "projectUniqueName": "C:\\_Git\\maubprueba1\\HolaMundoService\\HolaMundoService.csproj",
       "projectName": "HolaMundoService",
-      "projectPath": "C:\\HolaMundoService\\HolaMundoService.csproj",
+      "projectPath": "C:\\_Git\\maubprueba1\\HolaMundoService\\HolaMundoService.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "C:\\HolaMundoService\\obj\\",
+      "outputPath": "C:\\_Git\\maubprueba1\\HolaMundoService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
